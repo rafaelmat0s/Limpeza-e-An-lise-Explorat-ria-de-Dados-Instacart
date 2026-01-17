@@ -1,2 +1,2 @@
-# Limpeza e Analise Exploratoria de Dados Instacart
+# Limpeza e Analise Exploratória de Dados Instacart
 Neste projeto, realizo a limpeza, o pré-processamento e a análise exploratória de dados de pedidos da plataforma Instacart. O objetivo é garantir a qualidade e a consistência do conjunto de dados, preparando-o para análises futuras.
