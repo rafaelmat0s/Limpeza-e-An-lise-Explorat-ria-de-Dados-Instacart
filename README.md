@@ -53,3 +53,21 @@ Os insights extraídos fornecem uma base sólida para análises de negócio e mo
 ## 🔗 Link do Projeto
 Repositório GitHub:  
 https://github.com/rafaelmat0s/Limpeza-e-Analise-Exploratoria-de-Dados-Instacart
+
+---
+
+## 🔧 Como Executar o Projeto
+
+1. Clonar o repositório:
+```bash
+git clone https://github.com/rafaelmat0s/Limpeza-e-Analise-Exploratoria-de-Dados-Instacart.git
+
+2️⃣ Entrar na pasta do projeto
+cd cd Limpeza-e-Analise-Exploratoria-de-Dados-Instacart
+
+3️⃣ Criar ambiente virtual
+python -m venv venv
+venv\Scripts\activate
+
+4️⃣ Instalar dependências
+pip install pandas numpy scipy matplotlib seaborn
